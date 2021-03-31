@@ -1,0 +1,7 @@
+1. Create Docker file - Done.
+2. Upload the docker image to Docker Hub - Done.
+3. Create Basic Helm Chart - Done.
+4. Refacor helm charts to use helm template functions - TBD.
+5. Test the deployment with gke - DONE.
+6. Create Automatic Build using Docker hub Build - TBD
+7. Add monitoring to the app.
